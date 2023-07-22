@@ -12,5 +12,14 @@ scripts/lr_dependent_recruit_analysis.R
 Figure 4: Increasing Bleaching Mortality Analysis
 scripts/clarified_env_stress_analysis.R
 
-All Other Figures:
+All Other Conceptual Figures:
 scripts/other_figures_code_to_generate.R
+
+Recruitment by Reef Analysis:
+scripts/recruit_data_by_reef.R
+
+Recruitment by Taxa Analysis:
+scripts/recruit_data_by_taxa.R
+
+All required data files to replicate this analysis are in "Data", named as 
+referenced in the R scripts. 
