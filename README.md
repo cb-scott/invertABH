@@ -1,7 +1,7 @@
-# invertABH
+# Stay or Go
 Repository for modeling coral bleaching from symbionts' perspective.
 Included here are all scripts used to simulate results and create figures 
-for the paper [cite at publication here]. Some post-processing of figures 
+for the paper "Should I Stay or Should I Go? Coral bleaching from the symbionts' perspective". Some post-processing of figures 
 was completed using PowerPoint (e.g., legend placement), but core results 
 can be replicated.  
 
